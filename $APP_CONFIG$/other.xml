@@ -28,6 +28,11 @@
         <option value="$USER_HOME$/Projects/VillaViscom/hrt/corporate/www" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/VillaViscom/schakelschool/corporate/www" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/Projects/VillaViscom/schakelschool/corporate/www" />
   </component>
   <component name="Registry">
