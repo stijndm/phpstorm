@@ -33,6 +33,11 @@
         <option value="$USER_HOME$/Projects/VillaViscom/hrt/corporate/www" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="/Volumes/reynaers-corporate.nascomdev/www" />
+      </list>
+    </option>
     <option name="lastPath" value="/Volumes/reynaers-corporate.nascomdev/www" />
   </component>
   <component name="Registry">
