@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping ext="info" type="Ini" />
       <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
@@ -14,9 +13,8 @@
       <mapping ext="xlf" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="PLAIN_TEXT" />
-      <mapping ext="css" type="SCSS" />
       <mapping pattern="no_active_campaign" type="Twig" />
-      <removed_mapping ext="css" approved="true" type="CSS" />
+      <removed_mapping ext="css" approved="true" type="SCSS" />
     </extensionMap>
   </component>
 </application>
