@@ -10,8 +10,8 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="no_active_campaign" type="Twig" />
       <mapping pattern="cover_calculator_config" type="XML" />
       <removed_mapping ext="css" approved="true" type="SCSS" />
